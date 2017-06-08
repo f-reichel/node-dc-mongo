@@ -1,0 +1,14 @@
+node_modules/
+.sass-cache/
+bower_components/
+build/
+.vscode/
+*.log 
+*.stackdump
+conf/
+htdocs/
+images/profileImages/*.jpg
+images/profileImages/*.png
+images/patientImages/*.jpg
+images/patientImages/*.png
+.idea/
